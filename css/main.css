@@ -20,7 +20,7 @@ body {
   margin: 0 auto;
   font-size: 16px;
   line-height: 1.71429;
-  background-color: #fff;
+  background-color: whitesmoke;
 }
 
 img {
@@ -28,12 +28,12 @@ img {
 }
 
 a {
-  color: #373B47;
+  color: grey;
   text-decoration: none;
 }
 
 a:hover {
-  color: #E95853;
+  color: #e96b53;
 }
 
 
@@ -79,8 +79,8 @@ header{
 }
 
 .btn-home{
-  background: #2Ecc71;
-  color: #fff;
+  background: #1AA3A3;
+  color: whitesmoke;
   padding: 11px 20px;
   border-radius: 1px;
   font-weight: 500;
@@ -95,7 +95,7 @@ header{
 #services{
   background-color: #F17C72;
   text-align: center;
-  color: #fff;
+  color: whitesmoke;
   padding: 70px 7px;
 }
 
@@ -136,7 +136,7 @@ h4{
 }
 
 .modal-body{
-  background-color: #fff;
+  background-color: white;
   width: 60%;
   margin: 0 auto;
   text-align: center;
@@ -170,7 +170,10 @@ h4{
 footer{
   text-align: center;
   height: 70px;
-  background-color: #373b47;
-  color: #fff;
+  background-color: grey;
+  color: whitesmoke;
   padding-top: 7px;
+}
+.container h2{
+  text-align: center;
 }
